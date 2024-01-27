@@ -10,6 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/count" />
+            <option value="$PROJECT_DIR$/count" />
+            <option value="$PROJECT_DIR$/two-number" />
+            <option value="$PROJECT_DIR$/two-numbers" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
