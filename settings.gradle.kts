@@ -15,5 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
-include(":app:count")
-include(":app:calculate-2-numbers")
