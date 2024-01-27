@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.calculate_2_numbers"
-        minSdk = 21
+        minSdk = 34
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
