@@ -5,6 +5,15 @@
       <entry key="app">
         <State />
       </entry>
+      <entry key="app.calculate-2-numbers">
+        <State />
+      </entry>
+      <entry key="app.count">
+        <State />
+      </entry>
+      <entry key="app.myapplication">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
