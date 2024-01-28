@@ -15,3 +15,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
+include(":count")
+include(":app:count")
+include(":two-number")
+include(":two-numbers")

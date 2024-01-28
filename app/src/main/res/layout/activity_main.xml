@@ -33,7 +33,6 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="52dp"
         android:clickable="true"
-        app:layout_constraintEnd_toStartOf="@+id/floatingActionButton"
         app:layout_constraintHorizontal_bias="0.33"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@android:drawable/arrow_down_float"
