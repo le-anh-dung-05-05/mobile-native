@@ -8,10 +8,16 @@
       <entry key="app.count">
         <State />
       </entry>
+      <entry key="countdown-countup">
+        <State />
+      </entry>
       <entry key="new">
         <State />
       </entry>
       <entry key="two-number">
+        <State />
+      </entry>
+      <entry key="two-numbers">
         <State />
       </entry>
     </value>
