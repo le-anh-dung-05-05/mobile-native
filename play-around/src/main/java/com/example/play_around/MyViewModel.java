@@ -14,6 +14,6 @@ public class MyViewModel extends ViewModel {
         return number;
     }
     public void  increaseNumber(){
-        number.setValue(number.getValue()+1);
+        number.setValue(number.getValue() + 1);
     }
 }
